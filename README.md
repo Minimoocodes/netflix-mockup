@@ -1,12 +1,12 @@
-# React + Vite
+Hi!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my netflix-mockup.
 
-Currently, two official plugins are available:
+This project was to practice React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Netflix_mockup
-# react_netflix
-# react_netflix
-# netflix-mockup
+Here I learnt routing, useQuery, api fetching with Axios, and on top of that, file structure for a big projects.
+I have devided the projects to common components, constants, layout, hooks, pages, and utils to be visually structured. 
+
+For components, I got more used to npm packages and bootstrap.
+
+Thank you for your time!
